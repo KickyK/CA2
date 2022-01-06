@@ -1,0 +1,536 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 4013 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker11
+-projectPath
+C:/Users/kpetr/Desktop/NewStreet
+-logFile
+Logs/AssetImportWorker11.log
+-srvPort
+53237
+Successfully changed project path to: C:/Users/kpetr/Desktop/NewStreet
+C:/Users/kpetr/Desktop/NewStreet
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 199.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kpetr/Desktop/NewStreet/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 615 (ID=0x591e)
+    Vendor:   
+    VRAM:     2006 MB
+    Driver:   27.20.100.8682
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004918 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 186.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.921 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003993 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 205.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.443 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 1.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3480 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.6 MB.
+System memory in use after: 164.0 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3904.
+Total: 13.309700 ms (FindLiveObjects: 0.850400 ms CreateObjectMapping: 0.349400 ms MarkObjects: 6.078300 ms  DeleteObjects: 6.028100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VFXDefaultResources.asset
+  artifactKey: Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXDefaultResources.asset using Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9bf292cd187ab94791f1babfe291905') in 0.177860 seconds
+  Import took 0.194743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a101d14b6826ed53156bcc49efab3e7a') in 0.024690 seconds
+  Import took 0.040640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 250.342085 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(29fa5642e1ca8f04d890e6c5025ebf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(29fa5642e1ca8f04d890e6c5025ebf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0feccd3d2574a0ef96917d7212b656') in 0.073213 seconds
+  Import took 0.131414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010080 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(29fa5642e1ca8f04d890e6c5025ebf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(29fa5642e1ca8f04d890e6c5025ebf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0feccd3d2574a0ef96917d7212b656') in 0.012217 seconds
+  Import took 0.038178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.974401 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165456bf0dc148efb57cb9b79082eab0') in 0.058381 seconds
+  Import took 0.113797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028372 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165456bf0dc148efb57cb9b79082eab0') in 0.023630 seconds
+  Import took 0.063392 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.054775 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.776 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 154.1 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3907.
+Total: 13.667500 ms (FindLiveObjects: 0.812700 ms CreateObjectMapping: 0.425800 ms MarkObjects: 6.787000 ms  DeleteObjects: 5.637900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.620 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 154.1 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3909.
+Total: 51.416800 ms (FindLiveObjects: 2.673400 ms CreateObjectMapping: 1.635300 ms MarkObjects: 27.783400 ms  DeleteObjects: 19.304900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 512.652637 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e68d66ce4f105d6777f8e641be29f6b') in 0.133431 seconds
+  Import took 0.175092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4005.335047 seconds.
+  path: Assets/ModularCityAlleyPack
+  artifactKey: Guid(f9d22af9f8fb21e42aff87076adcd8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack using Guid(f9d22af9f8fb21e42aff87076adcd8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025252362d5a20027c057788f8857bee') in 0.188617 seconds
+  Import took 1.678414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 833.207404 seconds.
+  path: Assets/ModularCityAlleyPack/Textures
+  artifactKey: Guid(9d50430acf4d05f4f9411335816db23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Textures using Guid(9d50430acf4d05f4f9411335816db23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07db3dfbfb63c0a5d898946bc84ccfa4') in 0.111226 seconds
+  Import took 0.604885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002245 seconds.
+  path: Assets/ModularCityAlleyPack/Textures/Dumpster_Set_MaskMap.tga
+  artifactKey: Guid(22503ab71ee581243ae5ea24adbbc80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Textures/Dumpster_Set_MaskMap.tga using Guid(22503ab71ee581243ae5ea24adbbc80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47fa9a488588f3cc3ae5e9136f82655') in 8.156821 seconds
+  Import took 8.187509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000658 seconds.
+  path: Assets/ModularCityAlleyPack/Textures/Alley_Prop_Set_MaskMap.tga
+  artifactKey: Guid(7fb205edbadead84d907bf23c71d0fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Textures/Alley_Prop_Set_MaskMap.tga using Guid(7fb205edbadead84d907bf23c71d0fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ca40dd91aefb5977f8f69a83227f99') in 0.793429 seconds
+  Import took 0.842849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/ModularCityAlleyPack/Textures/Bed_BaseColor.tga
+  artifactKey: Guid(fae6feeb97c913c46a82c0ddf067953f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Textures/Bed_BaseColor.tga using Guid(fae6feeb97c913c46a82c0ddf067953f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3951f6c1b8bd36a42c6ef5759a9b2ab7') in 0.263071 seconds
+  Import took 0.446737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000814 seconds.
+  path: Assets/ModularCityAlleyPack/Textures/Distant_Building_B_Emissive.tga
+  artifactKey: Guid(68b5e58896d65cf4ebb3d1e0afb98cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Textures/Distant_Building_B_Emissive.tga using Guid(68b5e58896d65cf4ebb3d1e0afb98cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0be677291d6bcca54b79c2d4d8bc72') in 0.603319 seconds
+  Import took 1.251259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003497 seconds.
+  path: Assets/ModularCityAlleyPack/Textures/Distant_Building_B_Normal.tga
+  artifactKey: Guid(26279dd2ebb31a54c92ed9ba54f2d545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Textures/Distant_Building_B_Normal.tga using Guid(26279dd2ebb31a54c92ed9ba54f2d545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd63aae2ef58280915500a994a39a87') in 2.712038 seconds
+  Import took 2.900074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000999 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete2.mat
+  artifactKey: Guid(10fb5f01b38e9e14eb8e95b61575e962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete2.mat using Guid(10fb5f01b38e9e14eb8e95b61575e962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338d936c2dcf5cbd8a0c7b23f1a2f62b') in 137.323484 seconds
+  Import took 137.704879 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006812 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 8.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 17.298 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3251 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.8 MB.
+System memory in use after: 165.6 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4092.
+Total: 64.235700 ms (FindLiveObjects: 4.515700 ms CreateObjectMapping: 1.569000 ms MarkObjects: 30.372600 ms  DeleteObjects: 27.758700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.371577 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/StonePavement_MaskMap.png
+  artifactKey: Guid(aa6d439b5d3abbf45b7ccf26823e2484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/StonePavement_MaskMap.png using Guid(aa6d439b5d3abbf45b7ccf26823e2484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3880de827bf19ab23b806f2b6d6aedd') in 1.082043 seconds
+  Import took 1.228943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001528 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/StonePavement.mat
+  artifactKey: Guid(259352caaaabe7149832b86a4d6ee0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/StonePavement.mat using Guid(259352caaaabe7149832b86a4d6ee0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9f2daaea0c5df6efe01a020859985c') in 50.248692 seconds
+  Import took 50.916797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011905 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_SidewalkPlates_MaskMap.png
+  artifactKey: Guid(64e75a2f257a848499700d92b61051e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_SidewalkPlates_MaskMap.png using Guid(64e75a2f257a848499700d92b61051e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9047503525aedbe741c460f1ff54f6af') in 0.415932 seconds
+  Import took 0.522328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000957 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete2_MaskMap.png
+  artifactKey: Guid(ab2447d3d465d8347830a50ccbe99c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete2_MaskMap.png using Guid(ab2447d3d465d8347830a50ccbe99c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca7c3a5298d6de5d4ec6313a358dd67') in 0.605883 seconds
+  Import took 0.761489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001340 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_StreetPlatesConcrete_MaskMap.png
+  artifactKey: Guid(82558dea0c22fa44d91153b62ffaec81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_StreetPlatesConcrete_MaskMap.png using Guid(82558dea0c22fa44d91153b62ffaec81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689a658691165a8902995ceeae8f8551') in 0.240099 seconds
+  Import took 0.369846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000971 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_AsphaltRoad.mat
+  artifactKey: Guid(164b2e96d6b58ae468d3182dd3d2e7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_AsphaltRoad.mat using Guid(164b2e96d6b58ae468d3182dd3d2e7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da431af9cf1567310d22b864fe548fb') in 1.300633 seconds
+  Import took 1.364408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000761 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete_MaskMap.png
+  artifactKey: Guid(9e9c873098b559941b86e3dbf2fe1f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete_MaskMap.png using Guid(9e9c873098b559941b86e3dbf2fe1f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef081ac9306bb25a3dca0ad664b5b740') in 1.234069 seconds
+  Import took 1.936533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_StreetPlatesConcrete.mat
+  artifactKey: Guid(dc7f0f0c9ed4f5a4ea0235572f341888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_StreetPlatesConcrete.mat using Guid(dc7f0f0c9ed4f5a4ea0235572f341888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c6c87c1710cb81f78c2f66585067f6') in 0.921625 seconds
+  Import took 1.939699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001493 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_AsphaltRoad_MaskMap.png
+  artifactKey: Guid(40acdcaf4f74af248881b9d5732ee4d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_AsphaltRoad_MaskMap.png using Guid(40acdcaf4f74af248881b9d5732ee4d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc15eb95cb26c46212acb488724a0c7') in 0.206462 seconds
+  Import took 0.285576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001018 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete.mat
+  artifactKey: Guid(a9f32d96671d9b6478a4b4db0ee55ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete.mat using Guid(a9f32d96671d9b6478a4b4db0ee55ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9fa58da91b14200242fe41aaf469a98') in 0.495119 seconds
+  Import took 0.540128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000882 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_SidewalkPlates.mat
+  artifactKey: Guid(2ced9e5b58a74644c80f54fb274b6472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_SidewalkPlates.mat using Guid(2ced9e5b58a74644c80f54fb274b6472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad770f026e2faf6e7978455c3e3b4d2') in 16.288388 seconds
+  Import took 16.341084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001612 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete2.mat
+  artifactKey: Guid(10fb5f01b38e9e14eb8e95b61575e962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors/Floor_Concrete2.mat using Guid(10fb5f01b38e9e14eb8e95b61575e962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338d936c2dcf5cbd8a0c7b23f1a2f62b') in 0.325381 seconds
+  Import took 0.387625 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011186 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 165.2 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4196.
+Total: 76.621400 ms (FindLiveObjects: 2.103900 ms CreateObjectMapping: 1.483500 ms MarkObjects: 48.523400 ms  DeleteObjects: 24.501400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.107 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 165.2 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4198.
+Total: 173.468300 ms (FindLiveObjects: 3.942300 ms CreateObjectMapping: 2.598400 ms MarkObjects: 133.646400 ms  DeleteObjects: 33.234300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.051856 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.375 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 165.2 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4200.
+Total: 40.316000 ms (FindLiveObjects: 4.832000 ms CreateObjectMapping: 2.554000 ms MarkObjects: 17.371800 ms  DeleteObjects: 15.546200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010498 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 165.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4202.
+Total: 234.872500 ms (FindLiveObjects: 4.713100 ms CreateObjectMapping: 1.313500 ms MarkObjects: 194.854100 ms  DeleteObjects: 33.981300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.639 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 165.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4204.
+Total: 17.569900 ms (FindLiveObjects: 0.943200 ms CreateObjectMapping: 0.476900 ms MarkObjects: 9.851900 ms  DeleteObjects: 6.294600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.183 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 165.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4206.
+Total: 62.518900 ms (FindLiveObjects: 2.622100 ms CreateObjectMapping: 0.921800 ms MarkObjects: 33.061100 ms  DeleteObjects: 25.862800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 489.793896 seconds.
+  path: Assets/ModularCityAlleyPack/Materials
+  artifactKey: Guid(6a724c92910dfdc47bb55b22557e6af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials using Guid(6a724c92910dfdc47bb55b22557e6af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9090f9ccc61db1137d955f857dbce8') in 0.285203 seconds
+  Import took 0.474371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.216193 seconds.
+  path: Assets/ModularCityAlleyPack/Materials/Floors
+  artifactKey: Guid(b2ec3517e134c7b4099f48ed75fe1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularCityAlleyPack/Materials/Floors using Guid(b2ec3517e134c7b4099f48ed75fe1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cfee94c9f2fa1a8bd6256b965c09e4') in 0.133970 seconds
+  Import took 0.199834 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021270 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 14.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.6 MB.
+System memory in use after: 165.4 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4208.
+Total: 71.371100 ms (FindLiveObjects: 4.599500 ms CreateObjectMapping: 1.609200 ms MarkObjects: 34.338100 ms  DeleteObjects: 30.795500 ms)
+
